@@ -1,0 +1,9 @@
+{
+    "name": "pokemon-async-await",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "A simple project to demonstrate async/await with Pokémon API",
+    "scripts":{
+        "start": "node main.js"
+    }
+}
