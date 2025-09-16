@@ -105,9 +105,10 @@ json
 . MongoDB + Mongoose
 . Postman (API testing)
 
-# Screenshotes (Optional for Grading)
+# Screenshots (Optional for Grading)
 . Postman screenshots showing successful CRUD operations
 . MongoDB Compass view of your collections
+Screenshots test for games and screenshots tests for players
 
 # Completion Checklist
 . Two related models (Game & Player)
